@@ -6,3 +6,4 @@ cukimak
 Notzn
 malal
 bockt
+crue
